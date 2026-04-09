@@ -1,7 +1,7 @@
 {
   "name": "aman_bilalshah_sms_proxy",
   "version": "1.2.0",
-  "description": "Aman_BilalShah SMS Proxy API",
+  "description": "Aman_BilalShah Full SMS Proxy - Numbers + Reports",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

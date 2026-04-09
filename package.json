@@ -1,7 +1,7 @@
 {
-  "name": "0x_HAWK",
-  "version": "1.0.0",
-  "description": "SMS Proxy API - Numbers & Reports",
+  "name": "aman_bilalshah",
+  "version": "1.1.0",
+  "description": "Aman_BilalShah SMS Proxy API - Numbers & Reports",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
